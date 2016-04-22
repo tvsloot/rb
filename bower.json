@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "authors": [
+    "travis vander sloot <travis@tvsloot.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0",
+    "matchHeight": "~0.6.0",
+    "trumbowyg": "~v2.0.0",
+    "jquery-text-counter": "latest"
+
+  },
+  "resolutions": {
+    "font-awesome": "~4.3.0"
+  }
+}
